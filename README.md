@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 
-# 💫 About Me:
-🔭 I’m currently working on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Transformers Architecture and Generative Deep Learning<br>⚡ Fun fact
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rojitmanandhar) 
 
